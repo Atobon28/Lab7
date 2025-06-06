@@ -14,5 +14,17 @@
   },
   "dependencies": {
     "firebase": "^10.7.1"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atobon28/Lab7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atobon28/Lab7/issues"
+  },
+  "homepage": "https://github.com/Atobon28/Lab7#readme",
+  "description": ""
 }
